@@ -1,0 +1,8 @@
+arch:
+- arm64
+- ppc64le
+- s390x
+- amd64
+
+script:
+- ls
