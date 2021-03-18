@@ -6,3 +6,4 @@ arch:
 
 script:
 - ls
+- uname -a
